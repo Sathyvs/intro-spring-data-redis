@@ -1,4 +1,4 @@
-package com.sudeepnm.redis.introspringdataredis;
+package com.springtest.redis;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;
@@ -6,6 +6,7 @@ import org.springframework.data.redis.connection.RedisConnectionFactory;
 import org.springframework.data.redis.connection.RedisStandaloneConfiguration;
 import org.springframework.data.redis.connection.jedis.JedisConnectionFactory;
 import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.data.redis.core.ValueOperations;
 import org.springframework.data.redis.repository.configuration.EnableRedisRepositories;
 
 @ConfigurationProperties("spring.redis")
@@ -25,8 +26,10 @@ public class Configuration {
 
     @Bean
     public RedisTemplate<?, ?> redisTemplate() {
-        RedisTemplate<?, ?> template = new RedisTemplate<>();
+        RedisTemplate<String, String> template = new RedisTemplate<>();
         template.setConnectionFactory(redisConnectionFactory());
+        ValueOperations<String, String> ops = template.opsForValue();
+        ops.set("key", "Json_string");
         return template;
     }
 }

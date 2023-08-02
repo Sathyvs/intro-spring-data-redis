@@ -1,0 +1,2158 @@
+{
+  "data": [
+    {
+      "Account1": {
+        "name": "My First Checking Account",
+        "type": "DEPOSITORY CHECKING",
+        "account_number": "123456789",
+        "currency": "USD"
+      },
+      "Transactions": [
+        {
+          "amount": 1500,
+          "date": 0,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -1000,
+          "date": 5,
+          "description": "Monthly rent payment",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -75,
+          "date": 5,
+          "description": "Online bill payment for utility services",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -200,
+          "date": 5,
+          "description": "Check payment to John Doe",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -50,
+          "date": 10,
+          "description": "ATM cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 487,
+          "date": 22,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -749,
+          "date": 6,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -936,
+          "date": 25,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -694,
+          "date": 28,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -412,
+          "date": 26,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 672,
+          "date": 9,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 581,
+          "date": 19,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -660,
+          "date": 26,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 108,
+          "date": 29,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 168,
+          "date": 5,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -442,
+          "date": 11,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 429,
+          "date": 7,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -499,
+          "date": 25,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -217,
+          "date": 2,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -430,
+          "date": 7,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 33,
+          "date": 6,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 296,
+          "date": 24,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 144,
+          "date": 17,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 194,
+          "date": 2,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -851,
+          "date": 28,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -736,
+          "date": 28,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 150,
+          "date": 3,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 44,
+          "date": 27,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 56,
+          "date": 19,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -616,
+          "date": 28,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -343,
+          "date": 10,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 913,
+          "date": 3,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -630,
+          "date": 23,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 234,
+          "date": 21,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 784,
+          "date": 19,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 223,
+          "date": 28,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -462,
+          "date": 30,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 396,
+          "date": 6,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -768,
+          "date": 24,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -682,
+          "date": 2,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 581,
+          "date": 21,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -472,
+          "date": 8,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 202,
+          "date": 23,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -440,
+          "date": 21,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 723,
+          "date": 11,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -265,
+          "date": 17,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 707,
+          "date": 8,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 177,
+          "date": 2,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 208,
+          "date": 3,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 356,
+          "date": 7,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 145,
+          "date": 29,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 357,
+          "date": 7,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -358,
+          "date": 10,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -536,
+          "date": 3,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -957,
+          "date": 15,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 879,
+          "date": 2,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 690,
+          "date": 17,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 848,
+          "date": 25,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 652,
+          "date": 0,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -172,
+          "date": 30,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -858,
+          "date": 22,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 377,
+          "date": 18,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 731,
+          "date": 13,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 30,
+          "date": 2,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 617,
+          "date": 29,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 249,
+          "date": 4,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -246,
+          "date": 7,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 456,
+          "date": 28,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 399,
+          "date": 18,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 155,
+          "date": 1,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 348,
+          "date": 10,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -902,
+          "date": 22,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -190,
+          "date": 13,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -755,
+          "date": 29,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 782,
+          "date": 0,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 767,
+          "date": 11,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -160,
+          "date": 19,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -531,
+          "date": 30,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 364,
+          "date": 13,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 709,
+          "date": 27,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 336,
+          "date": 15,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -308,
+          "date": 5,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 643,
+          "date": 10,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 724,
+          "date": 21,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -393,
+          "date": 4,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -747,
+          "date": 2,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 103,
+          "date": 7,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 71,
+          "date": 5,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -395,
+          "date": 0,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 481,
+          "date": 12,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 787,
+          "date": 0,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -257,
+          "date": 29,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 245,
+          "date": 9,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 995,
+          "date": 7,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -449,
+          "date": 30,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 810,
+          "date": 22,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 313,
+          "date": 7,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 192,
+          "date": 6,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -120,
+          "date": 21,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 752,
+          "date": 20,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -925,
+          "date": 25,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -15,
+          "date": 23,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 774,
+          "date": 29,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -97,
+          "date": 19,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -103,
+          "date": 9,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 554,
+          "date": 20,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -103,
+          "date": 1,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -396,
+          "date": 24,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -954,
+          "date": 10,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -362,
+          "date": 29,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 542,
+          "date": 8,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -824,
+          "date": 28,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -979,
+          "date": 25,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -265,
+          "date": 7,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 235,
+          "date": 13,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 133,
+          "date": 3,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 269,
+          "date": 27,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -672,
+          "date": 12,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -595,
+          "date": 22,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 815,
+          "date": 28,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -234,
+          "date": 29,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 794,
+          "date": 9,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 394,
+          "date": 7,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 11,
+          "date": 25,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -868,
+          "date": 25,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 792,
+          "date": 16,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 714,
+          "date": 22,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -267,
+          "date": 6,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -64,
+          "date": 14,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 844,
+          "date": 20,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -786,
+          "date": 21,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 209,
+          "date": 13,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -213,
+          "date": 4,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -832,
+          "date": 3,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 718,
+          "date": 4,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -587,
+          "date": 7,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 152,
+          "date": 13,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -192,
+          "date": 26,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -95,
+          "date": 12,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 252,
+          "date": 13,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 208,
+          "date": 4,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -805,
+          "date": 25,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 1000,
+          "date": 4,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -125,
+          "date": 11,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 289,
+          "date": 1,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 452,
+          "date": 29,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -855,
+          "date": 15,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -677,
+          "date": 2,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -362,
+          "date": 29,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -85,
+          "date": 18,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -113,
+          "date": 15,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 745,
+          "date": 8,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 783,
+          "date": 6,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -515,
+          "date": 23,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -835,
+          "date": 4,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -120,
+          "date": 6,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -448,
+          "date": 5,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -881,
+          "date": 30,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -513,
+          "date": 27,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -797,
+          "date": 0,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 869,
+          "date": 30,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -337,
+          "date": 3,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 29,
+          "date": 16,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -20,
+          "date": 25,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 55,
+          "date": 4,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -667,
+          "date": 29,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -476,
+          "date": 8,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -378,
+          "date": 17,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -631,
+          "date": 6,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -300,
+          "date": 17,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 633,
+          "date": 17,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -68,
+          "date": 17,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -992,
+          "date": 24,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 477,
+          "date": 18,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 149,
+          "date": 9,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -518,
+          "date": 17,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 243,
+          "date": 19,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 797,
+          "date": 22,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -214,
+          "date": 24,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -518,
+          "date": 27,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -173,
+          "date": 12,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 33,
+          "date": 8,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -537,
+          "date": 22,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -284,
+          "date": 3,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 433,
+          "date": 23,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -367,
+          "date": 23,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -406,
+          "date": 7,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -251,
+          "date": 22,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -598,
+          "date": 16,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -506,
+          "date": 10,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -603,
+          "date": 14,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 151,
+          "date": 28,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -627,
+          "date": 8,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -132,
+          "date": 3,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 107,
+          "date": 6,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 324,
+          "date": 10,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 295,
+          "date": 22,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -258,
+          "date": 26,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -275,
+          "date": 0,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -621,
+          "date": 22,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 240,
+          "date": 27,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 727,
+          "date": 25,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -664,
+          "date": 27,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 519,
+          "date": 25,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 266,
+          "date": 0,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 223,
+          "date": 0,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -789,
+          "date": 16,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 435,
+          "date": 3,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -471,
+          "date": 11,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 844,
+          "date": 28,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 586,
+          "date": 25,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 449,
+          "date": 21,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -417,
+          "date": 23,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -221,
+          "date": 24,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 152,
+          "date": 27,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 931,
+          "date": 30,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 828,
+          "date": 27,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 347,
+          "date": 11,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 697,
+          "date": 0,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 673,
+          "date": 2,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 804,
+          "date": 29,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 452,
+          "date": 4,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -407,
+          "date": 28,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -931,
+          "date": 28,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 140,
+          "date": 30,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 412,
+          "date": 13,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 69,
+          "date": 21,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 788,
+          "date": 26,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 590,
+          "date": 18,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -728,
+          "date": 6,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 214,
+          "date": 18,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 793,
+          "date": 3,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -583,
+          "date": 19,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -25,
+          "date": 6,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -694,
+          "date": 19,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -164,
+          "date": 15,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -468,
+          "date": 21,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -892,
+          "date": 27,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -626,
+          "date": 2,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -467,
+          "date": 9,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 849,
+          "date": 18,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 113,
+          "date": 9,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 482,
+          "date": 15,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -161,
+          "date": 16,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -797,
+          "date": 7,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -443,
+          "date": 8,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -669,
+          "date": 0,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 445,
+          "date": 26,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 115,
+          "date": 24,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 971,
+          "date": 0,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -15,
+          "date": 17,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -817,
+          "date": 12,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 282,
+          "date": 18,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 1000,
+          "date": 3,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 824,
+          "date": 27,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 81,
+          "date": 28,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 116,
+          "date": 22,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 873,
+          "date": 2,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 227,
+          "date": 13,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -817,
+          "date": 1,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 260,
+          "date": 21,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -91,
+          "date": 9,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -528,
+          "date": 11,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 347,
+          "date": 5,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 640,
+          "date": 26,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 192,
+          "date": 25,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -102,
+          "date": 5,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 834,
+          "date": 29,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 474,
+          "date": 5,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -711,
+          "date": 24,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 671,
+          "date": 16,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 454,
+          "date": 0,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 534,
+          "date": 14,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 463,
+          "date": 1,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 798,
+          "date": 7,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 202,
+          "date": 10,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -187,
+          "date": 14,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -856,
+          "date": 14,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -799,
+          "date": 18,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -408,
+          "date": 29,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 311,
+          "date": 21,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 202,
+          "date": 3,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 555,
+          "date": 9,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -621,
+          "date": 9,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -279,
+          "date": 2,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 941,
+          "date": 18,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 907,
+          "date": 5,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -909,
+          "date": 8,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -753,
+          "date": 27,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 679,
+          "date": 4,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 573,
+          "date": 14,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 321,
+          "date": 17,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 223,
+          "date": 21,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 311,
+          "date": 15,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -358,
+          "date": 4,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 695,
+          "date": 24,
+          "description": "Direct deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -237,
+          "date": 22,
+          "description": "payment to X",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -224,
+          "date": 14,
+          "description": "cash withdrawal",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 888,
+          "date": 21,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 900,
+          "date": 11,
+          "description": "received payment from X",
+          "type": "deposit",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "Account2": {
+        "name": "My First Savings Account",
+        "type": "High-yield savings account",
+        "account_number": "0000000000"
+      },
+      "Transactions": [
+        {
+          "amount": -50,
+          "date": 0,
+          "description": "ATM",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": -100,
+          "date": 0,
+          "description": "Online transfer to John Doe",
+          "type": "withdrawal",
+          "currency": "USD"
+        },
+        {
+          "amount": 10,
+          "date": 1,
+          "description": "Interest earned",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": 200,
+          "date": 1,
+          "description": "Deposit from employer",
+          "type": "deposit",
+          "currency": "USD"
+        },
+        {
+          "amount": -25,
+          "date": 2,
+          "description": "Grocery store",
+          "type": "withdrawal",
+          "currency": "USD"
+        }
+      ]
+    }
+  ]
+}

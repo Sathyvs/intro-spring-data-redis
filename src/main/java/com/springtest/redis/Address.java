@@ -1,4 +1,4 @@
-package com.sudeepnm.redis.introspringdataredis;
+package com.springtest.redis;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,4 +1,4 @@
-package com.sudeepnm.redis.introspringdataredis;
+package com.springtest.redis;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.hamcrest.core.IsEqual;

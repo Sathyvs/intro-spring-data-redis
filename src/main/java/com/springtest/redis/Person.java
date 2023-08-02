@@ -1,4 +1,4 @@
-package com.sudeepnm.redis.introspringdataredis;
+package com.springtest.redis;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,7 +9,7 @@ import org.springframework.data.redis.core.index.Indexed;
 @AllArgsConstructor
 @Getter
 @Builder
-@RedisHash
+@RedisHash("Person")
 public class Person {
     private String id;
     @Indexed private String firstname;

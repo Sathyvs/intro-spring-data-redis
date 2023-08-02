@@ -1,4 +1,4 @@
-package com.sudeepnm.redis.introspringdataredis;
+package com.springtest.redis;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
